@@ -11,16 +11,19 @@
       "size" : "20x20"
     },
     {
+      "filename" : "Mandala-58.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "29x29"
     },
     {
+      "filename" : "Mandala-87.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "29x29"
     },
     {
+      "filename" : "Mandala-80.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "40x40"
@@ -31,11 +34,13 @@
       "size" : "40x40"
     },
     {
+      "filename" : "Mandala-120.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x60"
     },
     {
+      "filename" : "Mandala-180.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "60x60"
@@ -56,6 +61,7 @@
       "size" : "29x29"
     },
     {
+      "filename" : "Mandala-59.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "29x29"
@@ -66,16 +72,19 @@
       "size" : "40x40"
     },
     {
+      "filename" : "Mandala-81.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "40x40"
     },
     {
+      "filename" : "Mandala-76.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "76x76"
     },
     {
+      "filename" : "Mandala-152.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "76x76"
