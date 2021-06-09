@@ -25,5 +25,10 @@ extension Mood {
     static let confused = Mood(name: "Confused",
                             image: UIImage(resource: .confused),
                             color: UIColor.confused)
+    static let goofy = Mood(name: "Goofy", image: UIImage(resource: .goofy), color: UIColor.goofy)
+    static let meh = Mood(name: "Meh", image: UIImage(resource: .meh), color: UIColor.meh)
+    static let crying = Mood(name: "Crying", image: UIImage(resource: .crying), color: UIColor.crying)
+    static let sad = Mood(name: "Sad", image: UIImage(resource: .sad), color: UIColor.sad)
+    static let sleepy = Mood(name: "Sleepy", image: UIImage(resource: .sleepy), color: UIColor.sleepy)
 
 }

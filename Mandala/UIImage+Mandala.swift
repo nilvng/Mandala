@@ -11,6 +11,12 @@ enum ImageResource : String {
     case happy
     case angry
     case confused
+    case goofy
+    
+    case sad
+    case sleepy
+    case crying
+    case meh
 }
 
 extension UIImage{
